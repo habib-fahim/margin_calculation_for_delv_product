@@ -6,3 +6,4 @@ class ProductTemplate(models.Model):
 
     excluded_from_margin = fields.Boolean('Excluded from Margin')
 
+
